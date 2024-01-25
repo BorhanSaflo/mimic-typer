@@ -1,6 +1,6 @@
 # Mimic Typer
 
-## Description
+![mimic-typer-demo](https://github.com/BorhanSaflo/mimic-typer/assets/60056206/69666c6d-3ef4-4c4c-969c-c7f85466ca2e)
 
 Mimic Typer is a Python-based GUI application that simulates typing in any text field outside the application. It's built using `Tkinter` for the graphical interface and utilizes libraries like `pyautogui` and `keyboard` for controlling keyboard events. This application is particularly useful for software demonstrations or presentations, where you can pre-write the text you want to be typed and then use the application to simulate typing in the currently active text field. You can also use it for testing inputs or text fields in software applications.
 
